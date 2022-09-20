@@ -1,15 +1,20 @@
-## Table of contents
+# Table of contents
 
-- [Overview](#overview)
+- [Overview] #overview
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Author] #author
+
+## Overview
+
 ### Links
+
 GITHUB: <https://github.com/quberri/INTERACTIVE-CARD-DETAILS-FORM/tree/main/interactive-card-details-form-main>
+
 ## My process
 
 ### Built with
@@ -17,6 +22,7 @@ GITHUB: <https://github.com/quberri/INTERACTIVE-CARD-DETAILS-FORM/tree/main/inte
 - Semantic HTML5 markup
 - CSS custom properties
 - Vanilla JavaScript
+
 ### What I learned
 
 - Improved on HTML semantics
@@ -30,8 +36,9 @@ GITHUB: <https://github.com/quberri/INTERACTIVE-CARD-DETAILS-FORM/tree/main/inte
 
 ### Useful resources
 
-- [w3schools](https://www.https://www.w3schools.com/) 
+- [w3schools](https://www.https://www.w3schools.com/)
 - Books and some other documentations
+
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - (<https://www.frontendmentor.io/profile/quberri>)

@@ -32,7 +32,7 @@ GITHUB: <https://github.com/quberri/INTERACTIVE-CARD-DETAILS-FORM/tree/main/inte
 
 ### Continued development
 
--Improvement in DOM manipulation
+-Improvement in DOM manipulation, I got really stuck on the forms manipulation
 
 ### Useful resources
 

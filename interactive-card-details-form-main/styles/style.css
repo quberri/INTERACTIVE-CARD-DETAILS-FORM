@@ -104,13 +104,12 @@ body {
     position: relative;
 }
 
-.form_container {
+#formDetails {
     width: 100%;
     position: absolute;
     padding-left: 25vw;
     padding-right: 16vw;
     padding-top: 30vh;
-    display: none;
 }
 
 input {
@@ -196,14 +195,14 @@ fieldset>legend {
     background-color: hsl(278, 68%, 11%, 0.85);
 }
 
-.complete__state {
+ #completed{
     width: 100%;
     position: absolute;
     padding-left: 25vw;
     padding-right: 18vw;
     padding-top: 30vh;
     text-align: center;
-    display: ;
+    display: none;
 }
 
 article>h3 {

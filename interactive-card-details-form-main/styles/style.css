@@ -236,7 +236,7 @@ article>h3 {
         height: 100vh;
     }
 
-    .form_container {
+    #formDetails {
         padding-left: 33vw;
         padding-right: 6vw;
     }
@@ -293,7 +293,7 @@ article>h3 {
         top: 5.4rem;
     }
 
-    .complete__state {
+    #completed {
         padding-left: 18rem;
         padding-right: 4rem;
     }
@@ -384,7 +384,7 @@ article>h3 {
         height: 70vh;
     }
 
-    .form_container {
+    #formDetails {
         width: 100%;
         top: 21vh;
         left: 15vw;
@@ -394,7 +394,7 @@ article>h3 {
         padding-top: 0;
     }
 
-    .complete__state {
+    #completed {
         left: 5rem;
         top: 12rem;
         padding-top: 0;
@@ -490,7 +490,7 @@ article>h3 {
         height: 70vh;
     }
 
-    .form_container {
+    #formDetails {
         width: 100%;
         top: 15vh;
         left: 15vw;
@@ -500,7 +500,7 @@ article>h3 {
         padding-top: 0;
     }
 
-    .complete__state {
+    #completed {
         left: 4rem;
         right: 1rem;
         top: 10rem;
